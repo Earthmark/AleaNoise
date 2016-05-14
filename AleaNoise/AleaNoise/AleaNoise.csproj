@@ -40,6 +40,10 @@
       <HintPath>..\packages\Alea.CUDA.IL.2.2.0.3307\lib\net40\Alea.CUDA.IL.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Alea.CUDA.Unbound, Version=2.2.0.3307, Culture=neutral, PublicKeyToken=ba52afc3c2e933d6, processorArchitecture=MSIL">
+      <HintPath>..\packages\Alea.CUDA.Unbound.2.2.0.3307\lib\net40\Alea.CUDA.Unbound.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Alea.IL, Version=2.2.0.3307, Culture=neutral, PublicKeyToken=ba52afc3c2e933d6, processorArchitecture=MSIL">
       <HintPath>..\packages\Alea.IL.2.2.0.3307\lib\net40\Alea.IL.dll</HintPath>
       <Private>True</Private>
